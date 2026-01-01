@@ -25,6 +25,4 @@ I'm an entry-level developer focusing on **backend development**, but also famil
 ---
 
 ### 📂 Public projects
-- **SocialMediaApi** Web API built with **.NET 9**, including unit & integration tests, docker containerization, CI pipeline.
-
-#### 👉 Check them out in my repositories!
+👉 Check out my pinned projects!
